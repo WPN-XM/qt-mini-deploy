@@ -5,6 +5,10 @@
   - icudt51.dll (22Mb), icuin51.dll (3.5Mb), icuuc51.dll (2Mb). This saves 27.5 MB.
 - v5.2.2, build without ICU
 
+**Build Script**
+
+https://gist.github.com/jakoch/ebab7ff300e76257a1bd
+
 **Configure**
 
 ```
