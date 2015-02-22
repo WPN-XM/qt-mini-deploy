@@ -1,7 +1,7 @@
 ### Qt Minimal Deployment Kits for Windows
 
 These are dynamic builds, build without ICU (Unicode) dependencies.
-If your application doesn't depend on Unicode features you might simply drop these dependencies, because they are quite huge for simply applications.
+If your application doesn't depend on Unicode features, you might simply drop these dependencies.
 
 - v5.1.1, build without ICU (Unicode) dependencies. 
   - You don't have to ship the following files anymore: 
