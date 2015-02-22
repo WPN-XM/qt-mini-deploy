@@ -7,8 +7,7 @@
 
 **Build Script**
 
-If you want to build Qt static, then you might use this build scripts.
-It's a Powershell script. Powershell is required.
+If you want to build Qt static, then you might use this Powershell build script.
 
 https://gist.github.com/jakoch/ebab7ff300e76257a1bd
 
