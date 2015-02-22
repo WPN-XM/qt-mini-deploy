@@ -1,6 +1,6 @@
 ### Qt Minimal Deployment Kits for Windows
 
-These are dynamic builds, build without ICU (Unicode) dependencies.
+These are dynamic Mingw builds, build without ICU (Unicode) dependencies.
 If your application doesn't depend on Unicode features, you might simply drop these dependencies.
 
 - v5.1.1, build without ICU (Unicode) dependencies. 
@@ -8,6 +8,8 @@ If your application doesn't depend on Unicode features, you might simply drop th
   - icudt51.dll (22Mb), icuin51.dll (3.5Mb), icuuc51.dll (2Mb). This saves 27.5 MB.
 - v5.2.2
 - v5.4.0
+
+http://doc.qt.io/qt-5/windows-deployment.html
 
 **Configure**
 
