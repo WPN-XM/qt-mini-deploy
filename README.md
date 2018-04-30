@@ -1,4 +1,4 @@
-### Qt Minimal Deployment Kits for Windows
+### Qt Minimal Deployment Kits for Windows (deprecated)
 
 These are dynamic Mingw builds, build without ICU (Unicode) dependencies.
 If your application doesn't depend on Unicode features, you might simply drop these dependencies.
